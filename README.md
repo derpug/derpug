@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @derpug
+- 👀 I’m interested in making games
+- 🌱 I’m currently learning unity, c#, python(pygame) and c++
